@@ -19,6 +19,8 @@ __[Live demo](https://markdown-it.github.io)__
 > [!NOTE]
 > If you are upgrading to v15, see the [migration guide](docs/migration/migration_v15.md).
 
+> For CJK users: since the CommonMark specification lacks CJK support, this package lacks it too. But you can fix most of the issues by installing a third party plugin [`markdown-it-cjk-friendly`](https://www.npmjs.com/package/markdown-it-cjk-friendly).
+
 ### [Documentation >>](https://markdown-it.github.io/markdown-it/)
 
 
